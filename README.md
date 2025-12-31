@@ -24,6 +24,5 @@ product performance, and customer retention.
 
 ## Skills Demonstrated
 - Complex JOINs
-- CTEs & Window Functions
 - Time-based analysis
 - Business-focused SQL queries
