@@ -1,6 +1,3 @@
-# E-Commerce-Sales-Analytics-MySQL-Project-
-This project simulates an e-commerce platform database and performs business-driven SQL analytics such as revenue trends, customer behavior, and product performance.
-
 # E-Commerce Sales Analytics (MySQL)
 
 ## Project Description
